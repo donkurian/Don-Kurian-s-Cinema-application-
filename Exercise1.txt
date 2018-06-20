@@ -1,0 +1,42 @@
+QA Assessment 
+Exercise 1 
+-----------------
+Abstraction 
+-----------------
+Abstraction is the process of hiding the implementation details from the users of the program, 
+and only the functionality will be shown to the user. So therefore, meaning that the user will 
+know what the object does but they wouldn’t how it works. 
+
+An Example of Abstraction would be a TV remote, 
+as the user would know that the remote controls the TV, but they wouldn’t know how the remote actually works, 
+and carries out different operation such as turning on the TV on and off, or tuning the Voulume up and down.
+
+-----------------
+Inheritance
+-----------------
+Inheritance is the process where a class get the properties from another class. The class that inherits the
+properties of the other class is known as a Subclass, which can also be known as child class. The class whose 
+properties are inherited from is known as a superclass or a parent class.  Inheritance Is used so that information 
+is manageable and is kept in a hierarchical order.  
+
+An Example of inheritance is having a parent class called football positions and having different which sub classes which 
+represent the different positions in football such as defence, striker, goalkeeper and midfielder. 
+
+-----------------
+Polymorphism
+-----------------
+Polymorphism is the process where variables have the ability of changing their behaviour according to the object instance. 
+Polymorphism also allows for multiple objects of different child classes to be treated as objects of a parent class, while selecting 
+what method to apply to the object, based on what child class it belongs, the selection of the method is done automatically. 
+
+An example of polymorphism is having a functional such as speech, which can vary depending on what animal is chosen, 
+as all the animals can speak but their sound varies depending on the animal, as a dog’s produces a woof sound , and a cow produces a moo sound. 
+
+-----------------
+Encapsulation 
+-----------------
+Encapsulation is the process where the variable of a class is hidden from other class (so therefore using a private class instead of a public class) 
+the hidden data can only be assessed through public setter and getter methods.
+
+An example of Encapsulation is a medicine capsule which is the class, and the actual medicine inside the capsule is the methods and variables which are hidden, 
+this is due fact that you won’t be able to see the medicine inside the capsule unless you break it.  
